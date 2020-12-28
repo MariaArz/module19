@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Desktop/C++/19/piano2/cmake-build-debug/CMakeFiles/piano2.dir
+C:/Users/User/OneDrive/Desktop/C++/19/piano2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Desktop/C++/19/piano2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
